@@ -1,0 +1,5 @@
+# Mapulane Chatbot - Python Requirements
+# This project uses only Python standard library
+# No external packages required for basic functionality
+
+# Python 3.6 or higher recommended
